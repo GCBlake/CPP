@@ -2,5 +2,5 @@
 
 Contents:
 
-- Deep THought (Hitchhiker's Guide To The Galaxy)
+- Deep Thought (Hitchhiker's Guide To The Galaxy)
 - Cutty Flam (Suuuuuper Franky)
